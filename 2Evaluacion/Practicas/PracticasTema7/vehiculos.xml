@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE vehiculos SYSTEM "Practica.dtd">	
+<vehiculos>
+<vehiculo>
+<codveh>1</codveh>
+<tipo>Berlina</tipo>
+<motor>1900</motor>
+<combustible>Diesel</combustible>
+<color>Blanco</color>
+<marca>Opel</marca>
+<matricula>0045BHK</matricula>
+<averia>
+<codave>1</codave>
+<descripave>Arreglar Cosas Varias</descripave>
+<mecanico>
+<codmec>3</codmec>
+<nombremec>María Pérez</nombremec>
+<especmec>Pintura</especmec>
+</mecanico>
+<pieza>
+<codpieza>1</codpieza>
+<descrippieza>Tornillo</descrippieza>
+</pieza>
+ <pieza>
+ <codpieza>2</codpieza>
+ <descrippieza>Tuerca</descrippieza>
+ </pieza>
+<pieza>
+ <codpieza>3</codpieza>
+ <descrippieza>Arandela</descrippieza>
+ </pieza>
+ </averia>
+<averia>
+ <codave>2</codave>
+ <descripave>Arreglar Más Cosas</descripave>
+ <mecanico>
+ <codmec>4</codmec>
+ <nombremec>Cristobal Antón</nombremec>
+ <especmec>Chapa</especmec>
+ </mecanico>
+ <pieza>
+ <codpieza>4</codpieza>
+ <descrippieza>Esponja</descrippieza>
+</pieza>
+ </averia>
+ </vehiculo>
+<vehiculo>
+ <codveh>2</codveh>
+ <tipo>4x4</tipo>
+ <motor>2600</motor>
+ <combustible>Gasolina</combustible>
+ <color>Rojo</color>
+ <marca>Mazda</marca>
+ <matricula>M-3455-YP</matricula>
+ <averia>
+ <codave>3</codave>
+ <descripave>Y Más Arreglos</descripave>
+ <mecanico>
+ <codmec>4</codmec>
+ <nombremec>Cristobal Antón</nombremec>
+ <especmec>Chapa</especmec>
+ </mecanico>
+ <pieza>
+ <codpieza>5</codpieza>
+ <descrippieza>Cristal</descrippieza>
+ </pieza>
+ </averia>         
+ </vehiculo>
+<vehiculo>
+ <codveh>3</codveh>
+ <tipo>Motocicleta</tipo>
+ <motor>1500</motor>
+ <combustible>Gasolina</combustible>
+ <color>Blanco</color>
+ <marca>Yamaha</marca>
+ <matricula>3334CPL</matricula>
+ <averia>
+ <codave>4</codave>
+ <descripave>Y Otro Más</descripave>
+ <mecanico>
+ <codmec>1</codmec>
+ <nombremec>Carlos Martín</nombremec>
+ <especmec>Mecánica</especmec>
+ </mecanico>
+ <pieza>
+ <codpieza>6</codpieza>
+ <descrippieza>Pegamento</descrippieza>
+ </pieza>
+ </averia>         
+ </vehiculo>
+</vehiculos>
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<departamentos>
+<TITULO>DATOS DE LA TABLA DEPARTnuevos</TITULO>
+<DEP_ROW>
+  <DEPT_NO>60</DEPT_NO>
+  <DNOMBRE>RRHH</DNOMBRE>
+  <LOC>BURGOS</LOC>
+</DEP_ROW>
+<DEP_ROW>
+  <DEPT_NO>70</DEPT_NO>
+  <DNOMBRE>MARKETING</DNOMBRE>
+  <LOC>TOLEDO</LOC>
+</DEP_ROW>
+</departamentos>
